@@ -198,10 +198,10 @@ header {
     background-color:rgb(167, 224, 155);
   }
   .products-section .wrapper {
-    grid-column-start: 3;
+    grid-column-start: 2;
     grid-row-start: 2;
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 60px;
     width: 80%;
