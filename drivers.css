@@ -82,7 +82,7 @@ header {
   
   .container-info h1 {
     font-size: 5em;
-    font-family: sans-serif, cursive;
+    font-family: 'Montserrat', cursive;
     animation: left-move 1s ease-in;
   }
   
