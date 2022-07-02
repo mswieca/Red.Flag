@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(./images/Flora\ Augusta.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+header {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+div {
+    margin-left: 20px;
+}
