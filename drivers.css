@@ -82,6 +82,7 @@ header {
   
   .container-info h1 {
     font-size: 5em;
+    font-family: cursive;
     animation: left-move 1s ease-in;
   }
   
