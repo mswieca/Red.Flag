@@ -198,7 +198,7 @@ header {
     background-color:rgb(167, 224, 155);
   }
   .products-section .wrapper {
-    grid-column-start: 2;
+    grid-column-start: 3;
     grid-row-start: 2;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
